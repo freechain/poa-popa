@@ -1,0 +1,8 @@
+build
+node_modules
+postcard
+public
+coverage
+src/assets
+src/components
+server-config-private.js
